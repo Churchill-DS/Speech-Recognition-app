@@ -1,0 +1,2 @@
+[Error] Unsupported API selected.
+[Error] Listening timed out. Try speaking sooner.
